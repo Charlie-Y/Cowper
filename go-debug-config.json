@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "simple",
+            "mode": "debug",
+            "args": [
+                ""
+            ],
+             "cwd": "/Users/charlesyang/go/src/cowper/cmd/simple",
+            "env": {
+                "KEY": "SECRET"
+            }
+        }
+    ]
+}
